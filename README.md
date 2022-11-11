@@ -16,6 +16,6 @@ stated in the readme.
 
 
 ### List of DALL-E Extensions, Libraries etc not hosted in this repository
-| Application | Type | Link
-|---|---|---|
-| Discord | Bot | [Dalify Discord Bot](https://github.com/openai/dallify-discord-bot)
+| Application | Type | Link | Link
+|---|---|---|---|
+| Discord | Bot | [Dalify Discord Bot](https://github.com/openai/dallify-discord-bot) | Official OpenAI
