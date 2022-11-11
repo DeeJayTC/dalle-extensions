@@ -5,6 +5,8 @@ Want to add your own? Just follow theese steps:
 2. Add a readme with details how to use it
 
 ### Requirements
+
+* Have to follow [OpenAI's usage guideline](https://beta.openai.com/docs/usage-policies)
 * Needs to be a bring your own key kind of thing
 * Not allowed to use any backend and has to use the OpenAI API directly
 * Not allowed to store keys on any third party backend
