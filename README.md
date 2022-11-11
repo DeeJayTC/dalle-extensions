@@ -1,1 +1,13 @@
-# dall-e
+# Community made open-source DALL-E extensions!
+
+Want to add your own? Just follow theese steps:
+1. Add a PR with name "<product> extension"
+2. Add a readme with details how to use it
+
+### Requirements
+* Needs to be a bring your own key kind of thing
+* Not allowed to use any backend and has to use the OpenAI API directly
+* Not allowed to store keys on any third party backend
+* If above is not possible for whatever reason this has to be clearly
+stated in the readme. 
+
