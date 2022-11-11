@@ -11,3 +11,6 @@ Want to add your own? Just follow theese steps:
 * If above is not possible for whatever reason this has to be clearly
 stated in the readme. 
 
+
+
+### List of DALL-E Extensions, Libraries etc not hosted in this repository
