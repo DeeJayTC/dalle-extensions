@@ -3,6 +3,8 @@
 Want to add your own? Just follow theese steps:
 1. Add a PR with name "<product> extension"
 2. Add a readme with details how to use it
+3. Either add it to the list below or directly with source
+source is preferable but not required
 
 ### Requirements
 
