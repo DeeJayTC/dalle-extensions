@@ -16,7 +16,7 @@ stated in the readme.
 
 
 ### List of DALL-E Extensions, Libraries etc not hosted in this repository
-| Application | Type | Link | Link
+| Application | Type | Link | Comment
 |---|---|---|---|
 | Discord | Bot | [Dalify Discord Bot](https://github.com/openai/dallify-discord-bot) | Official OpenAI
 | Python | Script | [Dalle Image Sorter](https://github.com/andrew-1234/imgsorter)|  
