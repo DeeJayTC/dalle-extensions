@@ -21,5 +21,10 @@ stated in the readme.
 | Application | Type | Link | Comment
 |---|---|---|---|
 | Discord | Bot | [Dalify Discord Bot](https://github.com/openai/dallify-discord-bot) | Official OpenAI
-| Python | Script | [Dalle Image Sorter](https://github.com/andrew-1234/imgsorter)|  
+| Python | Script | [Dalle Image Sorter](https://github.com/andrew-1234/imgsorter)|
+| Python | Tool | [DALLE2-pytorch SDK](https://github.com/lucidrains/DALLE2-pytorch)|
+| Python | Tool | [borisdayma/dalle-mini](https://github.com/borisdayma/dalle-mini)|
+| Python | Tool | [Dalle Playground](https://github.com/saharmor/dalle-playground)|
+| Python | Tool | [jina-ai/dalle-flow](https://github.com/jina-ai/dalle-flow)|
+
 
